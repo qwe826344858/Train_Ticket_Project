@@ -4,6 +4,7 @@
 # 环境依赖
     1.Python 3.8+
       依赖包:selenium
+    2.运行环境 windows
 
 # 文件依赖
     1.下载谷歌浏览器,按照对应浏览器版本下载对应的 chromedriver-win64.zip
